@@ -7,7 +7,7 @@ import streamlit as st
 import os
 import sys
 
-model_path = r'C:\Users\ADMIN\OneDrive\Documents\adabost_model_path'
+model_path = r"C:\Users\ADMIN\OneDrive\Documents\adabost_model_path"
 
 try:
     with open(model_path, 'rb') as model_file:
